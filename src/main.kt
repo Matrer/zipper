@@ -37,7 +37,7 @@ fun main()  {
         else -> zip.Compress(toZip)
     }
 
-    print("$time [s]")
+    print("$time [s] test")
 
 
 }
